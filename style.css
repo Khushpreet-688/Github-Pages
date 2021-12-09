@@ -1,0 +1,12 @@
+:root{
+    --main-color: brown;
+}
+
+h1{
+    color: var(--main-color);
+}
+
+nav{
+    background-color: var(--main-color);
+}
+
